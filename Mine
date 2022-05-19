@@ -1,6 +1,7 @@
 [
-  {
-    "text": "post 1",
-    "img": "https://s6.uupload.ir/files/img_20220321_223605_573_jl0a.jpg"
-  }
+{
+"img":"img1id"
+,
+"copy":"copy1id" 
+}
 ]
