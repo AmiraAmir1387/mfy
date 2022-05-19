@@ -1,11 +1,13 @@
-if (_position == 0) {
-	textview1.setText(_data.get((int)_position).get("aks").toString());
-	bgd.setOnClickListener(new View.OnClickListener() {
-		@Override
-		public void onClick(View _view) {
-			bvb.putExtra("namayesh", _data.get((int)_position).get("namayesh").toString());
-			bvb.setClass(getApplicationContext(), NamayeshActivity.class);
-			startActivity(bvb);
-		}
-	});
+[
+{
+"name":"نام"
 }
+,
+{
+"name":"نام"
+}
+,
+{
+"adres":"mhkhh"
+}
+]
