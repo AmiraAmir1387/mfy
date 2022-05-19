@@ -30,7 +30,7 @@
 }
 ,
 {
-"name":"آموزش بارکردن پیوی روبیکا"
+"name":"آموزش باز کردن پیوی روبیکا"
 ,
 "list":"https://www.aparat.com/video/video/embed/videohash/jbMCo/vt/frame"
 }
@@ -45,5 +45,35 @@
 "name":"آموزش ساخت کپی کننده متن"
 ,
 "list":"https://www.aparat.com/video/video/embed/videohash/QLtTi/vt/frame"
+}
+,
+{
+"name":"آموزش گذاشتن رمز برای برنامه"
+,
+"list":"https://www.aparat.com/video/video/embed/videohash/yxOSp/vt/frame"
+}
+,
+{
+"name":"آموزش ذخیره کننده متن"
+,
+"list":"https://www.aparat.com/video/video/embed/videohash/YI9sr/vt/frame"
+}
+,
+{
+"name":"آموزش تغیر فونت برنامه"
+,
+"list":"https://www.aparat.com/video/video/embed/videohash/i8R14/vt/frame"
+}
+,
+{
+"name":"آموزش ساخت منوی کشویی"
+,
+"list":"https://www.aparat.com/video/video/embed/videohash/C1VKO/vt/frame"
+}
+,
+{
+"name":"آموزش ساخت برنامه تماس"
+,
+"list":"https://www.aparat.com/video/video/embed/videohash/VL9va/vt/frame"
 }
 ]
