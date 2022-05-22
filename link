@@ -1,12 +1,8 @@
 [
-{
-"Name":"Name1"
-,
-"Biography":"Biography1"
-,
-"Image":"https://s6.uupload.ir/files/۲۰۲۱۱۱۱۴_۱۷۴۷۱۹_9tot.png
-"
-,
-"username":"monotor"
-}
+  {
+    "Name": "آموزش برنامه نویسی",
+    "Biography": "صفر تا صد",
+    "lmage": "https://s6.uupload.ir/files/۲۰۲۱۱۱۱۴_۱۷۴۷۱۹_9tot.png",
+    "username": "monotor"
+  }
 ]
